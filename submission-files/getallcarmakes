@@ -1,0 +1,3 @@
+Command: curl -X GET http://127.0.0.1:8000/djangoapp/carmakes/
+
+Example output: [{"id":1,"name":"Toyota","description":"Automotive manufacturer.","models":[{"id":1,"name":"Camry","year":2023},{"id":2,"name":"Corolla","year":2022}]},{"id":2,"name":"Honda","description":"Automotive manufacturer.","models":[{"id":3,"name":"Civic","year":2024}]}]

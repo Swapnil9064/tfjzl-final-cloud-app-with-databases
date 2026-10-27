@@ -1,0 +1,3 @@
+Command: curl -X GET http://127.0.0.1:8000/djangoapp/dealers/1/
+
+Example output: {"id":1,"full_name":"Kansas City Auto Center","city":"Wichita","state":"Kansas","address":"100 Main Street","zip":"67202","lat":37.6872,"long":-97.3301,"short_name":"KC Auto","website":"https://example.com","phone":"555-0100"}

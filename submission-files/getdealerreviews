@@ -1,0 +1,4 @@
+Command: curl -X GET http://127.0.0.1:8000/djangoapp/dealers/1/reviews/
+
+Example output after `python manage.py seed_demo`:
+[{"id":1,"name":"Taylor Morgan","review":"Helpful staff and a smooth buying experience.","sentiment":"positive"}]
