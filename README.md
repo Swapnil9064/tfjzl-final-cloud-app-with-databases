@@ -1,8 +1,6 @@
-# Django Car Dealership Application
+# tfjzl-final-cloud-app-with-databases
 
-Repository name: `tfjzl-final-cloud-app-with-databases`
-
-This is a starter scaffold for the Full-stack Development Capstone. Includes Django API examples, About/Contact pages, a React registration component, and requested cURL command/output examples.
+Full-stack Development Capstone featuring a Django car dealership application, dealer and car APIs, customer reviews, responsive About and Contact pages, and a React registration component.
 
 ## Run
 ```bash
